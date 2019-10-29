@@ -1,0 +1,6 @@
+C:\Users\pepje\Desktop\DVI\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\pepje\Desktop\DVI\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\pepje\Desktop\DVI\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\pepje\Desktop\DVI\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\pepje\Desktop\DVI\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\pepje\Desktop\DVI\ConsoleUI\obj\Debug\ConsoleUI.pdb
